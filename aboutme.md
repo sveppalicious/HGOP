@@ -1,0 +1,2 @@
+My name is Sverrir Þór Sigurðarson. I'm 22 years old and I grew up in Denmark.
+I went to Verzló and am now on my 2nd year in RU (Computer Science). I'm currently working as a Computer Education teacher at Menntaskólinn í Reykjavík. My last job was as a terminal operations controller at Keflavík Airport. I like working with UNIX/Linux systems a lot. I want to become better at delivering and testing software.
